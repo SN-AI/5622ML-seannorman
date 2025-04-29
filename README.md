@@ -29,6 +29,7 @@ In this repository you will find the following materials:
 ├── data/
 ├── .venv/                  # Python virtual environment (created by setup scripts)
 ├── environment-config.md   # Instructions for setting up the Python environment
+├── ml-notebook.html        # Main Jupyter notebook as HTML for report viewing
 ├── ml-notebook.ipynb       # Main Jupyter notebook for analysis
 ├── README.md               # This file
 ├── requirements.txt        # List of Python package dependencies
