@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+statsmodels
+pandas_datareader
+fredapi
+openpyxl
+xgboost
